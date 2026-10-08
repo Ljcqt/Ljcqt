@@ -15,10 +15,10 @@
   <g transform="translate(20, 30)">
     <text x="0" y="0" class="text bold fade d1">ljcqt@github-profile</text>
     <text x="0" y="20" class="text fade d1">------------------------</text>
-    <text x="0" y="45" class="text fade d2"><tspan class="bold">Role:</tspan> Student / Developer</text>
-    <text x="0" y="70" class="text fade d2"><tspan class="bold">Stack:</tspan> Python, C++, Linux, RAG</text>
-    <text x="0" y="95" class="text fade d3"><tspan class="bold">Focus:</tspan> Applied Math &amp; CS</text>
-    <text x="0" y="120" class="text fade d3"><tspan class="bold">Hobbies:</tspan> Escape Games, Running</text>
-    <text x="0" y="150" class="text green fade d4">status: compiling ideas...</text>
+    <text x="0" y="45" class="text fade d2"><tspan class="bold">Role:</tspan> Eleve ingénieur en 4ème année</text>
+    <text x="0" y="70" class="text fade d2"><tspan class="bold">Stack:</tspan> Python, C/C++, R, RISCV,  HPC, </text>
+    <text x="0" y="95" class="text fade d3"><tspan class="bold">Focus:</tspan> Maths appliquées &amp; Informatique</text>
+    <text x="0" y="120" class="text fade d3"><tspan class="bold">Hobbies:</tspan> Escape game, Running, Musculation</text>
+    <text x="0" y="150" class="text green fade d4">status: compiling...</text>
   </g>
 </svg>
